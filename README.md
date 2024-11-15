@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zafir Akhter
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Computer science enginerring from Chitkara uni
+- 🌱 I’m currently doing my bachelors in Computer science engineering from Chitkara university
 - 💞️ I’m looking to collaborate on Projects that will help me refine my skills
 - 📫 How to reach me at @zafir.akhter on instagram
 - 😄 Pronouns: He/Him
